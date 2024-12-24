@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4ea54cc8ff43314ea25a8031c162ca5, type: 3}
+  m_Name: SpawnerC_DestinationD
+  m_EditorClassIdentifier: 
+  <m_Destination>k__BackingField: 3
+  <m_Material>k__BackingField: {fileID: 2100000, guid: c8f27786c8d3ab042bc47223b43e08bd,
+    type: 2}
+  <m_Amount>k__BackingField: 0
