@@ -1,14 +1,13 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using NOJUMPO.CaseStudy;
+using Cysharp.Threading.Tasks;
+using DG.Tweening;
 using NOJUMPO.Utils;
 using UnityEngine;
-using DG.Tweening;
 using Random = UnityEngine.Random;
-using Cysharp.Threading.Tasks;
 
-namespace NOJUMPO
+namespace NOJUMPO.ConveyingSystem
 {
     public class ConveyorObjectSpawner : MonoBehaviour
     {

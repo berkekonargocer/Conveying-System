@@ -1,7 +1,7 @@
 using TMPro;
 using UnityEngine;
 
-namespace NOJUMPO
+namespace NOJUMPO.ConveyingSystem
 {
     public class ConveyorObjectSpawnerUI : MonoBehaviour
     {

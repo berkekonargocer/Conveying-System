@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace NOJUMPO
+namespace NOJUMPO.ConveyingSystem
 {
     public class RotatorStationExit : MonoBehaviour
     {

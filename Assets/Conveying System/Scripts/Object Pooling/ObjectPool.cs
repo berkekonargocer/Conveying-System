@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace NOJUMPO.CaseStudy
+namespace NOJUMPO.ConveyingSystem
 {
     public class ObjectPool
     {

@@ -1,6 +1,6 @@
-using MoveDirection = NOJUMPO.ConveyorBelt.MoveDirection;
+using MoveDirection = NOJUMPO.ConveyingSystem.ConveyorBelt.MoveDirection;
 
-namespace NOJUMPO
+namespace NOJUMPO.ConveyingSystem
 {
     public class RotationQueueData
     {

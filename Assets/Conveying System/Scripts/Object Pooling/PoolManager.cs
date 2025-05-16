@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using NOJUMPO.Modules.Managers;
 
-namespace NOJUMPO.CaseStudy
+namespace NOJUMPO.ConveyingSystem
 {
     public class PoolManager : Singleton<PoolManager>
     {

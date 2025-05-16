@@ -1,7 +1,7 @@
+using MoveDirection = NOJUMPO.ConveyingSystem.ConveyorBelt.MoveDirection;
 using UnityEngine;
-using MoveDirection = NOJUMPO.ConveyorBelt.MoveDirection;
 
-namespace NOJUMPO
+namespace NOJUMPO.ConveyingSystem
 {
     public class RotatorStationEnter : MonoBehaviour
     {

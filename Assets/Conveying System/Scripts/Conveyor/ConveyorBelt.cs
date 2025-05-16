@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace NOJUMPO
+namespace NOJUMPO.ConveyingSystem
 {
     public class ConveyorBelt : MonoBehaviour
     {

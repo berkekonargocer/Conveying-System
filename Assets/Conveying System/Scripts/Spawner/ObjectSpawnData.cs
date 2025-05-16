@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace NOJUMPO
+namespace NOJUMPO.ConveyingSystem
 {
     [CreateAssetMenu(fileName = "NewObjectSpawnData", menuName = "NOJUMPO/Scriptable Objects/Conveyor Spawner/New Object Spawn Data")]
     public class ObjectSpawnData : ScriptableObject
