@@ -11,7 +11,7 @@ namespace NOJUMPO.Modules.Managers
             get {
                 if (m_instance == null)
                 {
-                    m_instance = FindObjectOfType<T>();
+                    m_instance = FindAnyObjectByType<T>();
 
                     if (m_instance == null)
                     {
